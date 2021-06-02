@@ -1,6 +1,6 @@
 <?php
 
-namespace indifferentmoviegoer\behaviors;
+namespace indifferend\behaviors;
 
 use yii\base\Behavior;
 use yii\db\ActiveRecord;

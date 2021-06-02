@@ -1,5 +1,5 @@
 {
-    "name": "indifferentmoviegoer/yii2-behaviors",
+    "name": "indifferend/yii2-behaviors",
     "description": "Collection of useful behaviors for Yii Framework 2.0",
     "type": "yii2-extension",
     "keywords": [
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "indifferentmoviegoer\\behaviors\\": ""
+            "indifferend\\behaviors\\": ""
         }
     },
     "scripts": {

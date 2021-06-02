@@ -1,13 +1,13 @@
 <?php
 
-namespace indifferentmoviegoer\behaviors\tests;
+namespace indifferend\behaviors\tests;
 
-use indifferentmoviegoer\behaviors\tests\data\PostModel;
+use indifferend\behaviors\tests\data\PostModel;
 
 /**
  * Class CarbonBehaviorTest
  *
- * @package indifferentmoviegoer\behaviors\tests
+ * @package indifferend\behaviors\tests
  */
 class CarbonBehaviorTest extends TestCase
 {

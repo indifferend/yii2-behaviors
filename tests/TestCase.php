@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2mod\behaviors\tests;
+namespace indifferentmoviegoer\behaviors\tests;
 
 use Yii;
 use yii\helpers\ArrayHelper;

@@ -1,13 +1,13 @@
 <?php
 
-namespace yii2mod\behaviors\tests;
+namespace indifferentmoviegoer\behaviors\tests;
 
-use yii2mod\behaviors\tests\data\PostModel;
+use indifferentmoviegoer\behaviors\tests\data\PostModel;
 
 /**
  * Class CarbonBehaviorTest
  *
- * @package yii2mod\behaviors\tests
+ * @package indifferentmoviegoer\behaviors\tests
  */
 class CarbonBehaviorTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2mod\behaviors;
+namespace indifferentmoviegoer\behaviors;
 
 use Carbon\Carbon;
 use yii\base\Behavior;
@@ -42,7 +42,7 @@ use yii\db\ActiveRecord;
  *
  * @see http://carbon.nesbot.com/docs/#api-introduction
  *
- * @package yii2mod\behaviors
+ * @package indifferentmoviegoer\behaviors
  */
 class CarbonBehavior extends Behavior
 {

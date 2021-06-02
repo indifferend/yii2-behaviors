@@ -1,15 +1,15 @@
 <?php
 
-namespace yii2mod\behaviors\tests\data;
+namespace indifferentmoviegoer\behaviors\tests\data;
 
 use yii\db\ActiveRecord;
-use yii2mod\behaviors\CarbonBehavior;
-use yii2mod\behaviors\PurifyBehavior;
+use indifferentmoviegoer\behaviors\CarbonBehavior;
+use indifferentmoviegoer\behaviors\PurifyBehavior;
 
 /**
  * Class PostModel
  *
- * @package yii2mod\settings\tests\data
+ * @package indifferentmoviegoer\settings\tests\data
  */
 class PostModel extends ActiveRecord
 {

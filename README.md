@@ -3,8 +3,8 @@ Yii2 behaviors
 
 Collection of useful behaviors for Yii Framework 2.0
 
-[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-behaviors/v/stable)](https://packagist.org/packages/yii2mod/yii2-behaviors) [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-behaviors/downloads)](https://packagist.org/packages/yii2mod/yii2-behaviors) [![License](https://poser.pugx.org/yii2mod/yii2-behaviors/license)](https://packagist.org/packages/yii2mod/yii2-behaviors)
-[![Build Status](https://travis-ci.org/yii2mod/yii2-behaviors.svg?branch=master)](https://travis-ci.org/yii2mod/yii2-behaviors)
+[![Latest Stable Version](https://poser.pugx.org/indifferentmoviegoer/yii2-behaviors/v/stable)](https://packagist.org/packages/indifferentmoviegoer/yii2-behaviors) [![Total Downloads](https://poser.pugx.org/indifferentmoviegoer/yii2-behaviors/downloads)](https://packagist.org/packages/indifferentmoviegoer/yii2-behaviors) [![License](https://poser.pugx.org/indifferentmoviegoer/yii2-behaviors/license)](https://packagist.org/packages/indifferentmoviegoer/yii2-behaviors)
+[![Build Status](https://travis-ci.org/indifferentmoviegoer/yii2-behaviors.svg?branch=master)](https://travis-ci.org/indifferentmoviegoer/yii2-behaviors)
 
 
 Installation
@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2mod/yii2-behaviors "*"
+php composer.phar require --prefer-dist indifferentmoviegoer/yii2-behaviors "*"
 ```
 
 or add
 
 ```
-"yii2mod/yii2-behaviors": "*"
+"indifferentmoviegoer/yii2-behaviors": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -86,5 +86,5 @@ Usage
 
 ## Support us
 
-Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/yii2mod). 
+Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/indifferentmoviegoer). 
 All pledges will be dedicated to allocating workforce on maintenance and new awesome stuff.
